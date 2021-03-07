@@ -11,15 +11,15 @@ features: # 可选的
   - title: 血流理论
     details: 血流的生理、病理及理论
     link: /bloodflow/theory/ # 可选
-    imgUrl: /img/Blood Flows Through the Heart and Lungs.png # 可选
+    imgUrl: https://img.rruu.net/image/604402bc28934 # 可选
   - title: 血流技术
     details: 监测与调控血流的相关技术
     link: /bloodflow/technology/
-    imgUrl: /img/blood flow monitoring device.png
+    imgUrl: https://img.rruu.net/image/604402be80467
   - title: 临床血流
     details: 血流在临床救治的应用
     link: /bloodflow/clinic/
-    imgUrl: /img/Improve Your Circulation.jpg
+    imgUrl: https://img.rruu.net/image/604402b8dc6ed
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
