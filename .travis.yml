@@ -14,9 +14,9 @@ deploy:
   keep_history: true
   on:
     push:
-      branches: [ docs ]
+      branches: docs
     pull_request:
-      branches: [ docs ]
+      branches: docs
     
     
 #  repo: Repo slug, defaults to current repo. Note: The slug consists of username and repo name and is formatted like user/repo-name.
