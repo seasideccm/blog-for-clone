@@ -10,6 +10,7 @@ module.exports = {
   repo: 'seasideccm/seasideccm.github.io', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 50, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
+  docsBranch: 'docs',
   docsDir: 'docs', // 我的源码即MD文件分支，    // 假如你的文档仓库和项目本身不在一个仓库：     docsRepo: 'vuejs/vuepress',     // 假如文档不是放在仓库的根目录下：     docsDir: 'docs',     // 假如文档放在一个特定的分支下：     docsBranch: 'master',
   editLinks: true, // 启用编辑
   editLinkText: '编辑',
