@@ -85,7 +85,7 @@ module.exports = [
       options: {
         clientID: '6ca64d720e9025287124',
         clientSecret: '4695eface4f3cf2e92ba2ed31f56691dc54b2e0f',
-        repo: 'seasideccm.github.io.git', // GitHub 仓库
+        repo: 'blog-gitalk-comment', // GitHub 仓库
         owner: 'seasideccm', // GitHub仓库所有者
         admin: ['seasideccm'], // 对仓库有写权限的人
         // distractionFreeMode: true,
